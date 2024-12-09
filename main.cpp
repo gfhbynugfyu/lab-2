@@ -1,6 +1,8 @@
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
+#include "functions.h"
+
 using namespace std;
 
 int main()
